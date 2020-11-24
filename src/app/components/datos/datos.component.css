@@ -1,0 +1,23 @@
+#datos {
+    background-color: rgb(180, 205, 252);
+}
+
+.marder {
+    border-right: 1px solid rgb(7, 76, 85);
+}
+
+.content-rigth {
+    text-align: left;
+}
+
+.descripcion {
+    text-align: justify;
+}
+
+.postSer {
+    margin: 20px auto;
+}
+
+.postPais {
+    margin-left: 20px;
+}
